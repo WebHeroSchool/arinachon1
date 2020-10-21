@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### Hi there 👋
 
 <!--
@@ -18,3 +19,6 @@ Here are some ideas to get you started:
 =======
 # arinachon1
 >>>>>>> 7aab275589ac995d0d49b2627a7654824cd0d18c
+=======
+
+>>>>>>> cb75cfb225fbab03fa7758ead2f0f6fb09772d26
