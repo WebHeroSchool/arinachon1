@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Hi there 👋
 
 <!--
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+=======
+# arinachon1
+>>>>>>> 7aab275589ac995d0d49b2627a7654824cd0d18c
