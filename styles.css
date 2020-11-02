@@ -1,7 +1,7 @@
 .title{
   font-family: Roboto, sans-serif;
 }
-body{
+.body{
   margin: 0;
 }
 .wrapper{
@@ -98,4 +98,37 @@ body{
  }
 .main__title-text_highlight{
   background: #ECF3FF;
+}
+@media(min-width: 1170px){
+
+}
+@media(max-width: 768px){
+  .menu{
+    display: none;
+  }
+  .logo{
+    width: 36px;
+    height: 35px;
+    background: url('img/logo2.svg');
+  }
+.header{
+  margin-bottom: 28px;
+}
+.main{
+  text-align: center;
+  padding: 74% 0 0;
+  background-size: 74%;
+  background-position: top center;
+}
+.main__title{
+  margin-bottom: 44px;
+  font: bold 30px/39px Pt serif, arial, helvetica, sans-serif;
+}
+.main__subtitle{
+  margin-bottom: 25px:;
+  font: 500 16px/19px Roboto, arial, helvetica, sans-serif;
+}
+.main__button{
+  font: 500 14PX/16PX Roboto, arial, helvetica, sans-serif;
+}
 }
