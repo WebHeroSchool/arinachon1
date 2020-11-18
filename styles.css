@@ -139,7 +139,7 @@
   font: 500 14px/16px Roboto, arial, helvetica, sans-serif;
 }
 }
-@media (max-width: 1919px){
+@media(max-width: 1919px){
 .wrapper{
 width: 69%;
 }
@@ -171,5 +171,44 @@ width: 40%;
 font: 500 14px/16px Roboto, arial, helvetica, sans-serif;
 width: 20%;
 padding: 14px 17px;
+}
+}
+@media(max-width: 1366px){
+.wrapper{
+  width: 93%;
+  margin-left: 4%;
+}
+.logo{
+  width: 30%;
+  padding: 0 0 10px 0;
+  margin-top: 3px;
+}
+.menu__item{
+font: 500 14px/16px Roboto, arial, helvetica, sans-serif;
+margin-right: 27px;
+}
+.header{
+  padding: 28px 0;
+  margin-bottom: 86px;
+}
+.main{
+  padding: 13px 60px 200px 0;
+  background-size: 56%;
+}
+.main__title{
+  font: bold 50px/66px Pt serif, arial, helvetica, sans-serif;
+  width: 50%;
+}
+.main__subtitle{
+font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
+width: 40%;
+}
+.main__button{
+font: 500 14px/16px Roboto, arial, helvetica, sans-serif;
+width: 20%;
+padding: 14px 17px;
+}
+.menu__item:last-child{
+  margin-right: 7px;
 }
 }
