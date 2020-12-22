@@ -222,9 +222,6 @@ padding: 14px 17px;
   padding: 15px 19px;
   font: 500 14px/16px Roboto, arial, helvetica, sans-serif;
 }
-#menu__toggle {
-  opacity: 0;
-}
 .menu__btn {
   display: flex;
   align-items: center;
